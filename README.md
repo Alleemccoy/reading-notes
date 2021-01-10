@@ -1,6 +1,6 @@
 # reading-notes
 
-Hi my name is **Allee**
+These are my 201 notes that I will continue to update throughout the class.
 > 201 reading notes
 
 ## Code 201 Reading Notes
