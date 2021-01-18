@@ -1,9 +1,10 @@
 # reading-notes
 
-These are my 201 notes that I will continue to update throughout the class.
+*These are my 201 notes that I will continue to update throughout the class*.
 > 201 reading notes
 
-## Code 201 Reading Notes
+
+## **Code 201 Reading Notes**
 
 - [Reading 1](201/read01.md)
 - [Reading 2](201/read02.md)
@@ -20,10 +21,3 @@ These are my 201 notes that I will continue to update throughout the class.
 - [Reading 13](201/read13.md)
 - [Reading 14](201/read14.md)
 - [Reading 15](201/read15.md)
-
-Testing123
-
-
-
-
-
