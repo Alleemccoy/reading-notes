@@ -6,7 +6,7 @@
 
 ## **Code 201 Reading Notes**
 
-- [Reading 1](201/read01.md)
+- [Reading 1](201/class-01.md)
 - [Reading 2](201/read02.md)
 - [Reading 3](201/read03.md)
 - [Reading 4](201/read04.md)
