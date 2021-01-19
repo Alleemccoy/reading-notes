@@ -13,7 +13,7 @@
 
 ### Chapter 8 Overview: EXTRA MARKUP
 #### - You should begin your code with the DOCTYPE
-#### - To add a comment to your code that will not be visible in user's browser <<!-- text goes here -->>
+#### - To add a comment to your code that will not be visible in user's browser `<<!-- text goes here -->>`
 #### - ID and Class Attributes
 #### - Clock and Inline Elements
 #### - Grouping Text
