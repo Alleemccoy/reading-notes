@@ -4,12 +4,12 @@
 
 ### Chapter 2 Overview: TEXT
 #### - Headings
-  #### * `<h1>This is a Main heading</h1>
-  #### * `<h2>This is a level 2 heading</h2>
-  #### * `<h3>This is a level 2 heading</h3>
-  #### * `<h4>This is a level 2 heading</h4>
-  #### * `<h5>This is a level 2 heading</h5>
-  #### * `<h6>This is a level 2 heading</h6>
+  #### * `<h1>`This is a Main heading`</h1>`
+  #### * `<h2>`This is a level 2 heading`</h2>`
+  #### * `<h3>`This is a level 2 heading`</h3>`
+  #### * `<h4>`This is a level 2 heading`</h4>`
+  #### * `<h5>`This is a level 2 heading`</h5>`
+  #### * `<h6>`This is a level 2 heading`</h6>`
 #### - Paragraphs `<p><p>`
 #### - Bold `<b><b>`
 #### - Italic `<i><i>`
