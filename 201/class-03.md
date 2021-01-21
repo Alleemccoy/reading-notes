@@ -5,7 +5,7 @@
 ### Chapter 3 Overview: LISTS
 - Ordered Lists
   * `<ol><ol>` *type this before and after the list is created*
-  * `<li></li>` this goes in the front and end of each list item or sentence - *items are in particular oder*
+  * `<li></li>` this goes in the front and end of each list item or sentence - *items are in particular order*
 - Unordered Lists
   * `<ul></ul>` type this before and after the list is created
   * `<li></li>` this goes in the front and end of each list item or sentence - *items are in any order*
