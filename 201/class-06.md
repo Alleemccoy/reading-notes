@@ -48,3 +48,16 @@
 - Adding or Removing HTML Content
   * There are two very different approaches to adding and removing content from a DOM tree: the innerHTML property and DOM manipulation
 - Attribute Nodes
+
+
+## *Simple Programmer*
+
+### Understanding The Problem Domain Is The Hardest Part Of Programming
+- What is the hardest thing about writing code?
+  * Learning a new technology
+  * Naming Things
+  * Testing your code
+  * Debugging
+  * Fixing Bugs
+  * Making software maintainable
+  * Etc.
