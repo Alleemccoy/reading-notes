@@ -1,6 +1,7 @@
 # **Class 7 Reading Notes**
 
-## *Domain Modeling* [Article] (https://github.com/codefellows/domain_modeling#domain-modeling)
+## *Domain Modeling*
+[Article](https://github.com/codefellows/domain_modeling#domain-modeling)
 - Domain modeling is the process of creating a conceptual model in code for a specific problem
 - A model describes the various entities, their attributes and behaviors as well as the constraints that govern the problem domain
 - An entity that stores data in properties and encapsulates behaviors in methods in commonly referred to as an **object-oriented** model
