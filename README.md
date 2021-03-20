@@ -1,10 +1,9 @@
-# reading-notes
+# Reading Notes
 
-*These are my 201 notes that I will continue to update throughout the class*.
-> 201 reading notes
+*This website will act like a journal where I will store all my reading notes throughout the Code Fellows courses*.
 
 
-## **Code 201 Reading Notes**
+## **Code 201 - Foundations of software Development**
 
 - [Reading 1](201/class-01.md)
 - [Reading 2](201/class-02.md)
@@ -21,3 +20,7 @@
 - [Reading 13](201/class-13.md)
 - [Reading 14](201/class-14.md)
 - [Reading 15](201/class-15.md)
+
+## **Code 301 - Intermediate Software Development**
+
+## **Code 401 - Advanced Software Development**
