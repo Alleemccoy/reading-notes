@@ -1,4 +1,4 @@
-# Reading Notes: 1
+# Reading: Class 01
 
 ### [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 - We are building a Tick-Tac-Toe game
