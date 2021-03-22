@@ -1,4 +1,4 @@
-# Reading Notes
+# Allee's Codefellows Reading Notes
 
 *This website will act like a journal where I will store all my reading notes throughout the Code Fellows courses*.
 
