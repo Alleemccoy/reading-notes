@@ -35,6 +35,7 @@
 - [Reading 13](301/class-13.md)
 - [Reading 14](301/class-14.md)
 - [Reading 15](301/class-15.md)
+- [ES6 Classes](301/es6-classes.md)
 
 
 ## **Code 401 - Advanced Software Development**
