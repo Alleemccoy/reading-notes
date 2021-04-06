@@ -59,6 +59,15 @@
   * JavaScript is everywhere, and Node is a vast and expansive subject
   * Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library
 
+### [6 Reasons for Pair Programming](https://canvas.instructure.com/courses/2608709/discussion_topics/10837440)
+- How does pair programming work?
+  * Greater efficiency
+  * Engaged collaboration
+  * Learning from fellow students
+  * Social skills
+  * Job interview readiness
+  * Work environment readiness
 
-
-
+[Geocoding API Docs](https://locationiq.com/) - *Bookmarked*
+[Axios docs](https://www.npmjs.com/package/axios) - *Bookmarked*
+[MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await) - *Bookmarked*
