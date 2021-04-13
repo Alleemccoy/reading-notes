@@ -109,3 +109,9 @@
 - Browser and Node Versions
   * SuperAgent has two implementations: one for web browsers **using XHR** and one for Node.JS using core http module, by default Browserify and WebPack will pick the browser version
   * Using browser version in electron
+
+
+### Bookmarked the following examples/tutorials
+[RegExr](https://regexr.com/)
+[Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+[Regex 101](https://regex101.com/)
