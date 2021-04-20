@@ -1,6 +1,6 @@
 # Reading: Class 09
 
-###[Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+### [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 - What is Functional Programming?
   * Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data
 - Pure Functions
@@ -48,5 +48,5 @@
 - Reduce
   * The idea of reduce is to receive a function and a collection, and return a value created by combining the items
 
-###[Refactoring JavaScript for Performance and Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
+### [Refactoring JavaScript for Performance and Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
 *It is best to click the link to read notes about this article as it shows many examples and different scenarios*
